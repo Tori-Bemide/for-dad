@@ -204,9 +204,15 @@ Hero
 
 .banner h1 {
   text-transform: uppercase;
-  font-size: 5rem;
+  font-size:3rem;
   margin-top: 1rem;
   color: var(--primary-color);
+}
+
+@media screen and (min-width:768px){
+  .banner h1 {
+    font-size: 5rem;
+  }
 }
 
 .section-title {
