@@ -196,7 +196,7 @@ Hero
 .hero {
   min-height: 100vh;
   background: linear-gradient(rgba(59, 130, 246,0.2), rgba(59, 130, 246, 0.3)),
-    url("./Images/Image-A.jpeg") center/cover no-repeat;
+    url("./images/Image-A.jpeg") center/cover no-repeat;
   display: grid;
   place-items: center;
   text-align: center;
@@ -553,19 +553,19 @@ Wish
 
 .card-back-1{
     background: linear-gradient(rgba(96, 165, 250,0.5), rgba(96, 165, 250,0.5)),
-    url("./Images/Image-X.jpg") top/cover no-repeat;
+    url("./images/Image-X.jpg") top/cover no-repeat;
 }
 .card-back-2{
     background: linear-gradient(rgba(96, 165, 250,0.5), rgba(96, 165, 250,0.5)),
-    url("./Images/Image-Y.jpg") center/cover no-repeat;
+    url("./images/Image-Y.jpg") center/cover no-repeat;
 }
 .card-back-3{
     background: linear-gradient(rgba(96, 165, 250,0.5), rgba(96, 165, 250,0.5)),
-    url("./Images/Image-Z.jpg") top/cover no-repeat;
+    url("./images/Image-Z.jpg") top/cover no-repeat;
 }
 .card-back-4{
     background: linear-gradient(rgba(96, 165, 250,0.5), rgba(96, 165, 250,0.5)),
-    url("./Images/Image-1.jpg") top/cover no-repeat;
+    url("./images/Image-1.jpg") top/cover no-repeat;
 }
 .card:hover .card-front {
   transform: rotateY(-180deg);
